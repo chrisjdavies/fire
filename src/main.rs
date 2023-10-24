@@ -1,5 +1,4 @@
-extern crate gfx_demo;
-
+use gfx_demo;
 use rand;
 
 const WINDOW_TITLE: &'static str = "Fire";
